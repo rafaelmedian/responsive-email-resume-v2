@@ -1,33 +1,41 @@
-.rs-header-profile {
+.heading {
     margin-top: 75px;
     Margin-top: 75px;
     margin-bottom: 0;
     Margin-bottom: 0;
-    img {
-      max-width: 70px;
-      border-radius: 5px;
-      padding-bottom: 0;
-    }
-    img {
-        border-radius: 5px;
-    }
-    @media only screen and (max-width: #{$global-breakpoint}) {
-        margin-bottom: 0;
-        Margin-bottom: 0;
-        margin-top: 50px;
-        Margin-top: 50px;
 
-        h1 {
-          padding-top: 2px;
-          margin-bottom: 0;
-          margin-top: 1em;
-          font-size: 24px;
-        }
-        h1, p {
-          text-align: center !important;
-        }
-        .header-image {
-          padding-bottom: 1em !important;
-        }
+
+
+    @media only screen and (max-width: #{$global-breakpoint}) {
+
     }
+}
+
+.heading__box {
+  position: absolute;
+  top: -20px;
+  left: 15px;
+  width: 40px;
+  height: 45px;
+  border: 4px solid rgba(61,109,190,0.4);
+}
+
+
+.heading__title {
+  font-size: 1.5em;
+}
+
+.heading__subtitle {
+  line-height: 1;
+  font-size: 1.3em;
+}
+
+.heading__desc {
+  font-size: 1em;
+  letter-spacing: 0.92px;
+  line-height: 20px;
+}
+
+.spacer {
+  border-bottom: 1px solid #dedede;
 }

@@ -1,20 +1,30 @@
-table.rs-experience {
-  p {
-    margin-bottom: 16px;
-    Margin-bottom: 16px;
-  }
+.padding-bottom-20 {
+  padding-bottom: 20px !important;
+}
 
-  h2 {
-    font-size: 15px;
-    margin-top: 1em;
-    margin-bottom: 0.3em;
-  }
+.experience__date {
+  font-weight: 100;
+  font-size: .7em;
+  color: #B2B6B7;
+  letter-spacing: 1px;
+}
 
-  h3 {
-    font-size: 16px;
-  }
+.experience__header {
+  font-size: 0.7em;
+  color: #B2B6B7;
+  letter-spacing: 1px;
+}
 
-  @media only screen and (max-width: #{$global-breakpoint}) {
+.experience__title {
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 1em;
+  color: #1F1F1F;
+}
 
-  }
+.experience__comp {
+  line-height: 1.5;
+  font-weight: 700;
+  font-size: 1em;
+  color: #1F1F1F;
 }

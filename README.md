@@ -1,6 +1,6 @@
 # Responsive Resume Email Template
 
-![img](chromegmailnew-vertical-allowed-1366 (2).png)
+![img](https://drive.google.com/file/d/1ZnabCeh-vLkLYm7GyELElKWb6txt8SZJ/view?usp=sharing)
 
 ![img](localhost-3000-(Nexus 5X).png)
 

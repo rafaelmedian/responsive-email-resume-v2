@@ -2,6 +2,8 @@
 
 ![img](chromegmailnew-vertical-allowed-1366 (2).png)
 
+![img](chromegmailnew-vertical-allowed-1366.png)
+
 ## It has a Gulp-powered build system with these features:
 
 - Handlebars HTML templates with [Panini](http://github.com/zurb/panini)

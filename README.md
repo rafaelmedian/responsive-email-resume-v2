@@ -1,6 +1,6 @@
 # Responsive Resume Email Template
 
-![img](.github/localhost-3000-(Nexus 5X).png)
+![img](.chromegmailnew-vertical-allowed-1366 (2).png)
 
 ## It has a Gulp-powered build system with these features:
 

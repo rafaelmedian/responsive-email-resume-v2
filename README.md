@@ -2,7 +2,7 @@
 
 ![img](chromegmailnew-vertical-allowed-1366 (2).png)
 
-![img](localhost-3000-(Nexus5X)png)
+![img](localhost-3000-(Nexus 5X).png)
 
 ## It has a Gulp-powered build system with these features:
 
